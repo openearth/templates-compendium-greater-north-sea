@@ -1,0 +1,61 @@
+project:
+  type: book
+  output-dir: docs
+
+execute: 
+  echo: false
+  warning: false
+  message: false
+
+book:
+  title: "Compendium for the Greater North Sea"
+  author: "Deltares, Ministery of Infrastructure and Water Management"
+  date: today
+  page-navigation: true
+  favicon: "assets/icon-deltares.svg"
+  page-footer: 
+    background: "#2E89BF"
+    center: "Compendium for the Greater North Sea"
+  sidebar:
+    footer: custom-component/sidebar-footer.html
+  navbar: 
+    background: "#2E89BF"
+    pinned: true
+  chapters:
+    - index.qmd
+    - executivesummary.qmd
+    - introduction.qmd
+    - nature.qmd
+    - food_and_fishing.qmd
+    - energy.qmd
+    - shipping.qmd
+    - sustainable_blue_economy.qmd
+    - shore_protection.qmd
+    - governance.qmd
+    - issues.qmd
+    - MSP2030.qmd
+    - MSP2050.qmd
+    # - knowledge_gaps.qmd
+    - documents.qmd
+    - acronyms.qmd
+    # - research.qmd
+
+toc: true
+toc-depth: 2
+# reference-location: margin
+# citation-location: margin
+# cap-location: margin
+number-sections: true
+number-depth: 1
+bibliography:
+  - bib/compendium.bib
+  - bib/references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    always_allow_html: true
+
+editor: source
+

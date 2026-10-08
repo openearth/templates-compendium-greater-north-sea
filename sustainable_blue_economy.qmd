@@ -1,0 +1,8 @@
+# Sustainable Blue Economy {#sec-sustainable-blue-economy}
+
+{{< include kables_and_pipelines.qmd >}}
+
+{{< include military_areas.qmd >}}
+
+{{< include other_uses.qmd >}}
+

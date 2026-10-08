@@ -1,0 +1,26 @@
+# Nature {#sec-nature}
+
+## Marine Biodiversity and Protected Areas
+
+{{< include MPA.qmd >}}
+
+## Climate change
+
+## Legislation
+
+## MSP relevant operational targets OSPAR 2030 strategy
+
+## Need to have for MSP
+
+## Relevant for MSP
+
+{{< include birds.qmd >}}
+
+{{< include mammals.qmd >}}
+
+{{< include fish.qmd >}}
+
+{{< include habitats.qmd >}}
+
+<!-- {{< include restoration.qmd >}} -->
+

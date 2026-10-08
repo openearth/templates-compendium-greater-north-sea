@@ -1,0 +1,31 @@
+# Forecast 2050 {#msp2050}
+
+Marine spatial planning (MSP) is the process of finding the balance between activities at sea, by developing an integrated, ecosystem-based strategic and adaptive plan, enabling a transition to a more sustainable and livable future. In literature MSP is presented as an approach or process to realise coordination of use at sea at national and supra-national level (e.g. Spijkerboer et al 2020).
+
+In the EU member states are required to develop marine spatial plans for the management of use of their sea space according to the 2014 MSP Directive (Council Directive 2014/89/EU). Although no MSP plans from member states have been made for 2050, certain targets for e.g. offshore wind energy production, may be publicly available and if so, are shown in this section.
+
+Quickscan kaarten NSEC SG2 (Rob Gerits )
+
+<!-- {{< include offshore_wind.qmd >}} -->
+
+{{< include France2050.qmd >}}
+
+{{< include Belgium2050.qmd >}}
+
+{{< include The_Netherlands2050.qmd >}}
+
+{{< include Germany2050.qmd >}}
+
+{{< include Denmark2050.qmd >}}
+
+{{< include Sweden2050.qmd >}}
+
+{{< include Norway2050.qmd >}}
+
+{{< include Scotland2050.qmd >}}
+
+{{< include England2050.qmd >}}
+
+{{< include Ireland2050.qmd >}}
+
+{{< include Greater_North_Sea2050.qmd >}}

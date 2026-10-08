@@ -1,0 +1,6 @@
+# Energy {#sec-energy}
+
+{{< include offshore_wind.qmd >}}
+
+{{< include other_renewables.qmd >}}
+

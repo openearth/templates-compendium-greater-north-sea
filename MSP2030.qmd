@@ -1,0 +1,51 @@
+# MSP 2030 {#msp2030}
+
+Marine spatial planning (MSP) is the process of finding the balance between activities at sea, by developing an integrated, ecosystem-based strategic and adaptive plan, enabling a transition to a more sustainable and livable future. In literature MSP is presented as an approach or process to realise coordination of use at sea at national and supra-national level (e.g. Spijkerboer et al 2020).
+
+In the EU member states are required to develop marine spatial plans for the management of use of their sea space according to the 2014 MSP Directive (Council Directive 2014/89/EU). MSP plans from member states for 2030 that are publicly available are shown in this section.
+
+|                     |                                                                                                                             |                                                                        |                                        |
+|----------------|-------------------|---------------------|-----------------|
+| **Country**         | **Plan(s) active**                                                                                                          | **Revision**                                                           | **Foreseen time of adopting revision** |
+| Belgium             | Marien plan (2020-2026)                                                                                                     | Kick off April 2023                                                    | 2025                                   |
+| Denmark             | [Maritime spatial plan](https://havplan.dk/portalcache/api/v1/file/en/30a6ed4a-e332-4d2e-8389-dd20c13c1494.pdf) (2021/2022) | Political negotiations with new government 2023                        |                                        |
+| England[^msp2030-1] |                                                                                                                             |                                                                        |                                        |
+|                     | East (2014)                                                                                                                 | Report 2020 -- no revision                                             |                                        |
+|                     | South (2018)                                                                                                                | Report 2021 -- no revision                                             |                                        |
+|                     | North East (2021)                                                                                                           | Report due 2024                                                        |                                        |
+| France              | East Channel -- North Sea (2022)                                                                                            | Review ongoing                                                         |                                        |
+| Germany             | EEZ: New site development plan published (Jan 2023)                                                                         |                                                                        |                                        |
+|                     | Niedersaksen                                                                                                                |                                                                        |                                        |
+|                     | Sleswig-Holstein                                                                                                            |                                                                        |                                        |
+| Ireland             |                                                                                                                             |                                                                        |                                        |
+| Netherlands         | North Sea Programme (2022-2027)                                                                                             | Partial revision start mid 2023                                        | Adoption beginning 2025                |
+| Northern-Ireland    |                                                                                                                             |                                                                        |                                        |
+| Norway              |                                                                                                                             |                                                                        |                                        |
+| Scotland            | National plan (2015)                                                                                                        | Development 2^nd^ plan ongoing                                         | draft plan proposed summer 2024        |
+|                     | Regional plan Shetland                                                                                                      | Underway                                                               | Mid 2023                               |
+|                     | Regional plans, Orkney, Clyde                                                                                               | Public consultations mid 2023                                          |                                        |
+| Sweden              | MSP plan adopted February 2022                                                                                              | New offshore wind plans March 2023, public consultation September 2023 | New proposal to government end 2024    |
+
+[^msp2030-1]: Review/Reporting England plans: no less frequently than every three years MMO to produce a report on the impact of a marine plan. The resulting report informs a decision about whether to replace or amend a marine plan.
+
+{{< include France2030.qmd >}}
+
+{{< include Belgium2030.qmd >}}
+
+{{< include The_Netherlands2030.qmd >}}
+
+{{< include Germany2030.qmd >}}
+
+{{< include Denmark2030.qmd >}}
+
+{{< include Sweden2030.qmd >}}
+
+{{< include Norway2030.qmd >}}
+
+{{< include Scotland2030.qmd >}}
+
+{{< include England2030.qmd >}}
+
+{{< include Ireland2030.qmd >}}
+
+{{< include Greater_North_Sea2030.qmd >}}

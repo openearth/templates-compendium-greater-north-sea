@@ -1,0 +1,5 @@
+## Belgium {#be-msp-2030}
+
+![Belgian Marine Spatial Plan for 2020-2026](images/BELGIE_MSP.png){#fig-belgium-msp-2030 fig-alt="Belgian MSP" width="100%"}
+
+The latest MSP of Belgium was published in 2026. It can be found at https://www.health.belgium.be/nl/themas/leefmilieu/marien-milieu/marien-ruimtelijk-plan.

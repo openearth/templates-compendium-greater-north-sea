@@ -1,0 +1,8 @@
+# Food and fishing {#sec-food-and-fishing}
+
+{{< include seaweed.qmd >}}
+
+{{< include shellfish.qmd >}}
+
+{{< include fishing.qmd >}}
+

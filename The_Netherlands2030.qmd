@@ -1,0 +1,19 @@
+## The Netherlands {#nl-msp-2030}
+
+![Dutch Marine Spatial Plan for 2022-2027](images/NEDERLAND.png){fig-alt="Dutch MSP" height="600"}\](https://www.noordzeeloket.nl/beleid/programma-noordzee-2022-2027/)
+
+The most recent MSP of the Netherlands is detailed in the Programma Noordzee 2022-2027 document. Map data is available through the Rijkswaterstaat geoserver.
+
+## The Netherlands information on the European MSP platform
+
+The country profile for The Netherlands is available via <https://maritime-spatial-planning.ec.europa.eu/countries/netherlands>.
+
+The Country profile (pdf) from this site is shown below.
+
+```{=html}
+<object data="data/country-profiles/Netherlands Country Profile.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```

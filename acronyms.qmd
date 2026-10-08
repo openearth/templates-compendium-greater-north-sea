@@ -1,0 +1,46 @@
+# Acronyms {#sec-acronyms .unnumbered}
+
+
+```{r setupAcronyms"}
+require(tidyverse)
+```
+
+<!-- Proposed way to handle acronyms in Rmarkdown -->
+
+<!-- https://github.com/rchaput/acronymsdown  -->
+
+<!-- see last chunk for conversion to yaml -->
+
+```{r acronymTable"}
+
+acroniemen <- 
+  tribble(
+    ~shortname, ~longname,
+"MSP", "Marine Spatial Planning",
+"GNS", "Greater North Sea",
+"CCS", "carbon capture and storage",
+"OSPAR", "Oslo and Paris Conventions",
+"MPA", "Marine Protected Areas",
+ "AFS", "International Convention on the Control of Harmful Anti-fouling Systems on Ships",
+ "EEA", "European Environment Agency", 
+"GES", "Good Environmental Status",
+"ICCAT", "International Commission for the Conservation of Atlantic Tunas",
+"ICES", "International Council for the Exploration of the Sea",
+"IMO", "International Maritime Organization",
+"IUCN", "International Union for Conservation of Nature",
+"MARPOL", "International Convention for the Prevention of Pollution from Ships",
+"MSFD", "Marine Strategy Framework Directive",
+"NAMMCO", "North Atlantic Marine Mammal Commission",
+"NASCO", "North Atlantic Salmon Conservation Organization",
+"QSR", "Quality Status Report",
+"STECF", "European Commission<U+0092>s Scientific Technical and Economic Committee for Fisheries",
+"DMM", "Discarded military materials",
+"UXO", "Unexploded Ordnances",
+"TEN-E", "Trans-European Networks for Energy"
+      ) %>%
+  arrange(shortname)
+
+kableExtra::kable(acroniemen, caption = "List of acronyms.") %>%
+  kableExtra::kable_styling(latex_options="scale_down")
+```
+

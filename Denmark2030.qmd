@@ -1,0 +1,3 @@
+## Denmark {#dk-msp-2030}
+
+![Marine Spatial Plan of Denmark](images/DENMARK_MSP.png){#denmark-msp-2030 fig-alt="Danish MSP" height="600px"}](https://havplan.dk/en/page/info)

@@ -1,0 +1,88 @@
+# Introduction {#sec-introduction .unnumbered}
+
+## THe Greater North Sea: current state of play
+
+**Ecoregion**
+
+(Reference <https://www.ices.dk/advice/ESD/Pages/North-Sea-Ecoregion-description.aspx>)
+
+The ***Greater North Sea ecoregion*** covers the northern European continental shelf, from Brittany (France) in the south, the Danish straits in the east, and Vestland (Norway) and the Orkney and Shetlands archipelagos (Scotland) in the north. It is a temperate semi-enclosed coastal shelf sea connected to the Norwegian Sea and Celtic Seas ecoregion in the north, the Bay of Biscay and Iberian Coast ecoregion in the south and the Baltic Sea ecoregion in the east. Its oceanography is characterized by a permanently thermally mixed water column in the south and east and seasonal stratification in the north as well as exchanges with the adjacent Atlantic and Baltic waters.
+
+![Greater North Sea Ecoregion](images%5CGNS_figure1.png){#fig-greater-north-sea-ecoregion fig-align="center"}
+
+The ecoregion consists of four key areas:
+
+-   The **northern North Sea** (depths 0--500 m), strongly influenced by Atlantic oceanic inflow and has the deep Norwegian trench in the east. The majority of the area is stratified in summer. The dominant human activities are fishing and oil and gas production.
+
+-   The **southern North Sea** (depths 0--50 m), characterized by large river inputs, tidal currents, and shallow waters, which result in a strongly mixed water column all year round. The dominant human activities are fishing, shipping, ports, gas production, wind farms, and aggregate (sand) extraction.
+
+-   The **Skagerrak** and **Kattegat** form the link to the Baltic Sea and are less saline and less tidal than the rest of the ecoregion. The water column is predominatly stratified. The dominant human activities are fishing, shipping, and wind farms.
+
+-   The **English Channel** joins the southern North Sea to the Atlantic. It is usually mixed and strongly influenced by wind and tidal events. The dominant human activities are fishing, shipping, and aggregate (gravel) extraction.
+
+### Management
+
+The Greater North Sea ecoregion includes all or parts of the Exclusive Economic Zones (EEZ) of six EU Member States (France, Belgium, the Netherlands, Germany, Denmark, and Sweden), as well as Norway, the United Kingdom (UK). The ecoregion overlaps with the North Sea Advisory Council (NSAC) administrative region, OSPAR Region II and large marine ecosystem (LME) 22.
+
+The key policies for conservation in the EU are: the Birds and Habitats Directives (including the Natura 2000 ecological network), the Marine Strategy Framework Directive (MSFD), and the Biodiversity Strategy 2030. Norway and UK have similar national regulations, such as the Norwegian Integrated Management of the Marine Environment of the North Sea and Skagerrak or the UK Marine Strategy. Marine mammal issues are considered in cooperation under the North Atlantic Marine Mammal Commission (NAMMCO).
+
+Key policies that regulate human activities in the EU are: the Integrated Maritime Policy, the Maritime Spatial Planning (MSP) Directive, and the Blue Growth Strategy. International shipping is managed under the International Maritime Organization (IMO; through, for example, the International Convention for the Prevention of Pollution from Ships \[MARPOL\], the International Convention on the Control of Harmful Anti-fouling Systems on Ships \[AFS\], and the International Convention for the Control and Management of Ships' Ballast Water and Sediments). Oil and gas related activities are managed at national level (in accordance with the OSPAR Convention and the Bonn Agreement).
+
+​Fisheries management in the ecoregion are partly affected through coastal state agreements between the EU, Norway, and UK, which covers most commercial demersal fish, small pelagic fish, and Norway lobster (Nephrops norvegicus) fisheries. The majority of shellfish fisheries (i.e. all except Norway lobster) are determined as national responsibilities. Managerial responsibility for salmon is taken under the North Atlantic Salmon Conservation Organization (NASCO) and for large pelagic fish by the International Commission for the Conservation of Atlantic Tunas (ICCAT). Fisheries policy is determined by national governments (UK and Norway) and the EU Common Fisheries Policy. Collective fisheries advice is provided by the International Council for the Exploration of the Sea (ICES), the European Commission's Scientific Technical and Economic Committee for Fisheries (STECF), and the North Sea (NSAC), and the Pelagic Advisory Councils. Environmental policy is managed by national governments and agencies and OSPAR, with advice being provided by national agencies, OSPAR, the European Environment Agency (EEA), and ICES.
+
+## Greater North Sea in transition
+
+The North Sea region is home to many different human activities that share resources and space: oil and gas sectors, fishing, recreational, transport sector and other industries to name a few. The region also provides resources such as sand (essential for coastal protection and safety against flooding and required by the construction industry as building material) and energy (oil and gas extraction, although being phased out, and offshore renewable energy). It is also important for connectivity: cables and pipelines cross the entire area, transporting energy and facilitating vital international telecommunication, as well as providing space for new island hubs for electricity generation and international grid sharing. In upcoming decades major transitions are foreseen in the Greater North Sea, in part due to member states' ambitions for becoming CO2 neutral by 2050 in the fight against climate change (detailed in the European Green Deal) but also due to geopolitical developments which have speeded up countries' ambitions for renewable energy production. And in part also, due to the society's discourse on biodiversity and nature restoration, sustainable food production and circular economy at European level which countries are increasingly embracing. These ambitions are, to a certain degree, posing tensions between the different users of the North Sea as well as adding pressure to the available spatial and ecological space in the North Sea. It is these tensions which are highlighted in the paragraphs below and visualised in the various maps in the Compendium viewer.
+
+### Nature transition
+
+::: {.column-margin}
+![](images/DPC2019_217.jpg){}
+:::
+
+
+As part of the wider North Atlantic sea region, the greater North Sea basin is a large marine ecosystem and regarded as such. It is home to a wide variety of marine species, and for some, like the grey seal, a true hotspot. It functions as a bird migration route and has a range of different habitats. The ecosystem (components) and biodiversity are under pressure from climate change and human use, with various protection, restoration and mitigation measures in place and/or in design/planning.
+
+Late 2022, EU Member States agreed on a minimum 30% protection of their seas under the Biodiversity Agreement of Montreal during the Convention on Biodiversity, with an additional ambition for strictly protecting 1/3 thereof, stemming from the European Biodiversity Strategy. On top of this - either by legal commitments or voluntarily - North Sea countries have nature restoration (projects) on their agenda, as well as enhancement, mitigation and compensation measures for species and habitats as a result of diverse pressures caused by human activities. During the first half of 2023 EU Member States will have nature protection and restoration pledges ready to contribute to a Trans-European Network of Nature. For more information on the North Sea nature transition, see Chapter Nature.
+
+### Energy transition
+
+::: {.column-margin}
+![](images/AdobeStock_129927995-low-res.png){}
+:::
+
+In 2015 194 nations signed the Paris Agreement and committed to limit global warming to less than 1.5 degrees above pre-industrial levels. The EU followed up by publishing its Green Deal in 2019, detailing Europe's climate policy and growth strategy. A clear message was set by the EU's Green Deal, detailing Europe's strategy to reach net-zero greenhouse gas emission by 2050 to contribute to climate protection with targets for reducing greenhouse gas (GHG) emissions based on a resource-efficient and circular economy. Offshore wind energy production plays is seen as the most effective means to achieveing this target and the North Sea is viewed as holding a vast potential in delivering large amounts of offshore renewable energy to achieve it. Moreover, due to recent geopolitical and social developments geo-political and social developments (war in Ukraine) the drive for renewable energy solutions and achieving sustainable energy security has only increased further making the need for a rapid transition from fossil energy to renewable energy more evident.
+
+Energy infrastructure is a key enabler for the energy transition. The Trans-European Networks for Energy (TEN-E) is a policy that is focused on linking the energy infrastructure of EU countries. The TEN-E Directive entered into force on 23 June 2022. This directive requires all EU member states to jointly set concrete (non-binding) targets for the realisation of offshore wind energy for each sea basin for 2030, 2040 and 2050 and to draw up an infrastructure plan (Offshore Network Development Plan) for this at strategic level. For more information on member states' targets and the energy transition in the North Sea, in particular the implications on space, see Chapter Energy.
+
+### Energy transition and balancing with nature
+
+The International Union for Conservation of Nature (IUCN) pioneered the concept of [nature-based solutions](https://www.iucn.org/our-work/nature-based-solutions#:\~:text=IUCN%20pioneered%20the%20concept%20of%20Nature-based) 20 years ago. Nature-based solutions have significant, but currently under-utilised, potential to help address pressures caused by climate change and human activities and help in restoring habitats and populations. At the United Nations Environment Assembly (UNEA) in March 2022, governments formally agreed a definition of nature-based solutions, and recognised the important role they can play in the global response to climate change and underscored the importance governments put on how effective a tool nature-based solutions are in tackling two of the greatest challenges, i.e. climate change and nature loss. The UNEA resolution formally adopted the definition of nature-based solutions as 'actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which address social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, [ecosystem services and resilience and biodiversity benefits](https://wwf.panda.org/wwf_news/?5226891/nature-based-solutions-UNEA#:\~:text=The%20UNEA%20resolution%20formally%20adopted%20the%20definition%20of,well-being%2C%20ecosystem%20services%20and%20resilience%20and%20biodiversity%20benefits.%E2%80%99).
+
+With the rapid growth of wind energy production in the Greater North Sea, large marine areas will become populated with offshore wind farms. This scale of infrastructure development is creating additional pressures on the North Sea's species and habitats, although the creation of new, hard structures can provide additional habitats for species. However, the cumulative impacts of the developments together and how they will change the North Sea at a holistic, ecosystem level are still unclear. It is evident, that the North Sea is already in intensive use by a variety of human activities, making the natural ecosystem highly vulnerable. This ecosystem needs to be better understood, protected and enhanced by means of creating marine protected areas and by active nature restoration measures (for more information see Chapter Nature).
+
+### Energy transition and shipping
+
+The development of offshore wind farms in the North Sea poses several future issues for shipping. The North Sea is already congested with a large volume of vessel traffic, and with a growing shipping sector together with the development of offshore wind farms, mariculture farms and other uses. All this will add to the congestion, potentially leading to increased risks of accidents and collisions. Additionally, the installation and maintenance of wind turbines will require large vessels to operate in the area, further exacerbating these risks. Different types of shipping zones pose different access restrictions and can include shipping main routes, clearways, anchor zones, and separation zones. Future envisioned shipping routes and their access restrictions all need to be incorporated in the member states' MSP plans. For more information see Chapter Shipping.
+
+### Maintaining Good Ecological Status
+
+<!-- (input Lodewijk) -->
+
+### Space for fisheries: fossil-free, noise-free
+
+<!-- (input Lodewijk) -->
+
+### Coherence in assessing effects of human uses
+
+<!-- (input Lodewijk) -->
+
+### ESPOO and effects of way of working
+
+no joint masterplan, no integral and international vision
+
+<!-- (input Lodewijk) -->
+
+### Opportunities for food production
+
+The upscaling of wind energy production in the North Sea is claiming space from the traditional fishing industry, potentially impacting the future provision of food if this is not managed and thus affecting the role the North Sea plays within the framework of food security for an increasing world population. The construction of wind farms is therefore limiting fishing (especially trawler fishing) and means this sector must seek alternative fishing grounds or methods. On the other hand, the wind farms create new opportunities for so-called multifunctional use; the development of aquaculture (shellfish and seaweed farming) and new or adapted fishing techniques (pot and trap fisheries for lobster and edible crab). For more information on the opportunities, see Chapter Food and Fishing.

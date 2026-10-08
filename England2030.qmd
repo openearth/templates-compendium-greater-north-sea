@@ -1,0 +1,3 @@
+## England {#en-msp-2030}
+
+![Marine Spatial Plan of England](images/ENGLAND_MSP.png){#england-msp-2030 fig-alt="English MSP" width="100%"}](https://explore-marine-plans.marineservices.org.uk/)

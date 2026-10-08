@@ -1,0 +1,3 @@
+## Scotland {#sc-msp-2030}
+
+![Marine Spatial Plan of Scotland](images/SCOTLAND_MSP.png){#scotland-msp-2030 fig-alt="Scottish MSP" width="100%"}](https://www.gov.scot/publications/scotlands-national-marine-plan/)

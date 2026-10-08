@@ -1,0 +1,14 @@
+## Offshore wind {#sec-offshore-wind}
+
+### Targets per country
+
+# graph of development in time
+
+# service does not work anymore
+
+# eez <- sf::st_read(`MarineRegions:eez_iho_union_v2_url`, quiet = T) %>% 
+
+#   filter(country %in% unique(windtargets$name))
+
+### Numbers
+
