@@ -37,7 +37,7 @@ book:
     - MSP2050.qmd
     # - knowledge_gaps.qmd
     - documents.qmd
-    # - acronyms.qmd
+    - acronyms.qmd
     # - research.qmd
 
 toc: true

@@ -9,3 +9,5 @@ data_old/
 images_old/
 
 *.html
+/.quarto/
+**/*.quarto_ipynb
