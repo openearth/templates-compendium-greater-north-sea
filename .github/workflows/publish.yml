@@ -25,7 +25,7 @@ jobs:
       - name: Restore packages
         run:
           Rscript -e 'install.packages("renv")'
-          Rscript -e 'renv::restore'
+          Rscript -e 'renv::restore()'
 
       - name: Render book
         run: quarto render
