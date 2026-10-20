@@ -8,7 +8,7 @@
 
 The ***Greater North Sea ecoregion*** covers the northern European continental shelf, from Brittany (France) in the south, the Danish straits in the east, and Vestland (Norway) and the Orkney and Shetlands archipelagos (Scotland) in the north. It is a temperate semi-enclosed coastal shelf sea connected to the Norwegian Sea and Celtic Seas ecoregion in the north, the Bay of Biscay and Iberian Coast ecoregion in the south and the Baltic Sea ecoregion in the east. Its oceanography is characterized by a permanently thermally mixed water column in the south and east and seasonal stratification in the north as well as exchanges with the adjacent Atlantic and Baltic waters.
 
-![Greater North Sea Ecoregion](images%5CGNS_figure1.png){#fig-greater-north-sea-ecoregion fig-align="center"}
+![Greater North Sea Ecoregion](images/GNS_figure1.png){#fig-greater-north-sea-ecoregion fig-align="center"}
 
 The ecoregion consists of four key areas:
 
